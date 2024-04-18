@@ -20,7 +20,7 @@ Commande de lancement : docker-compose up --build
 
 pour faire le calcule :  localhost:8000/calculate 
 
-pour recuperer les datas : localhost:/export_csv
+pour recuperer les datas : localhost:8000/export_csv
 
 les datas sont stcoké dans un sqlLite
 
