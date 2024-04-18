@@ -13,7 +13,9 @@ Déployer le projet sur docker à l’aide de docker-compose.
 
 
 
-Solution
+Solution :
+
+
 Commande de lancement : docker-compose up --build
 
 pour faire le calcule :  localhost:8000/calculate 
